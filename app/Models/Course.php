@@ -12,5 +12,5 @@ class Course extends Model
         'start_time',
         'end_time',
         'classroom'
-    ] 
+    ]; 
 }
